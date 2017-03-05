@@ -1,4 +1,6 @@
-#Techniques
+# Techniques
+
+## Short-term (everyday, daily, weekly)
 
 - one on ones
 - product meeting
@@ -13,6 +15,10 @@
 - knowledge base
 - chatrooms
 
+## Longer-term
+
+- performance reviews
+- developer development
 
 #Management Software
 - CI: travis
